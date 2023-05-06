@@ -9,6 +9,7 @@ public class App {
         System.out.println("Hello Git！anning hotfix first modify!");
         System.out.println("Hello Git！master hotfix first modify!");
         System.out.println("test pull from GitHub");
+        System.out.println("test2 pull from GitHub");
 
     }
 }
