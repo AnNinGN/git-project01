@@ -7,5 +7,6 @@ public class App {
         System.out.println("Hello Git！anning master second commit!");
         System.out.println("Hello Git！anning hotfix first commit!");
         System.out.println("Hello Git！anning hotfix first modify!");
+        System.out.println("Hello Git！anning master first modify!");
     }
 }
